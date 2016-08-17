@@ -1,4 +1,4 @@
 .idea/
 android-simon.iml
-gen/
+gen/*
 
